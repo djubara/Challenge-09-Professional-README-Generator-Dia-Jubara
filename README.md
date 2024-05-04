@@ -32,20 +32,23 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-## Application Screenshot
+> ## Application Screenshot
+
 ![image](https://github.com/djubara/Challenge-09-Professional-README-Generator-Dia-Jubara/assets/92331916/1278a5fe-92cd-49a2-b53a-103b94a60a15)
 
-## Installation Instructions
+> ## Installation Instructions
 
 1. Clone the repository
 2. Install dependencies
 3. Invoked by typing: `node index.js`
 
-## Usage Information Section
+> ## Usage Information Section
 
 This application allows you to quickly and easily generate a README file by using a command-line input to generate one. This allows the project creator to devote more time working on the project.
 
 1. After you invoke the application, answering each prompt in the CLI.
 2. Preview the generated README.me file in the dist folder.
 
-**Link to the video:**
+> ## Link to the video showcasing the application
+
+<https://app.screencastify.com/v3/watch/kAeiauYLL7GuuwIlsg8O>
