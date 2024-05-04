@@ -33,8 +33,7 @@ THEN I am taken to the corresponding section of the README
 ```
 
 ## Application Screenshot
-
-![image](.\img\Challenge-09-Professional-README-Generator-Screenshot.png)
+![image](https://github.com/djubara/Challenge-09-Professional-README-Generator-Dia-Jubara/assets/92331916/1278a5fe-92cd-49a2-b53a-103b94a60a15)
 
 ## Installation Instructions
 
