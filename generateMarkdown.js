@@ -62,7 +62,7 @@ function generateMarkdown(data) {
   ${data.test}
   
   > ## Questions:
-  If you have any question please [${data.userName}](https://github.com/${data.userName}) or send me an email to: ${data.email}
+  If you have any question please [${data.userName}](https://github.com/${datadj.userName}) or send me an email to: ${data.email}
       `;
 }
 

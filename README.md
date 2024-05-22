@@ -40,7 +40,7 @@ THEN I am taken to the corresponding section of the README
 
 1. Clone the repository
 2. Install dependencies
-3. Invoked by typing: `node index.js`
+3. Invoke by typing: `node index.js`
 
 > ## Usage Information Section
 
